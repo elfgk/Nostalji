@@ -17,7 +17,6 @@ with gr.Blocks() as demo:
     image_input = gr.Image(type="pil", label="Giriş Resmi")
     image_output = gr.Image(type="numpy", label="Sonuç Resmi")
 
-    # Fonksiyonu Gradio bileşenlerine bağlayalım
     image_input.change(nostalji, inputs=image_input, outputs=image_output)
 
 # Gradio arayüzünü başlat
