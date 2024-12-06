@@ -19,6 +19,6 @@ with gr.Blocks() as demo:
 
     image_input.change(nostalji, inputs=image_input, outputs=image_output)
 
-# Gradio arayüzünü başlat
+# Gradio arayüzü
 if __name__ == "__main__":
     demo.launch(share=True)
