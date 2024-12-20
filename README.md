@@ -41,10 +41,10 @@ Bu projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımlar�
     cd siyah-beyaz-filtre-uygulamasi
     ```
 
-3. `siyah_beyaz_filtre.py` dosyasını çalıştırın:
+3. `nostalji.py` dosyasını çalıştırın:
 
     ```bash
-    python siyah_beyaz_filtre.py
+    python nostalji.py
     ```
 
 4. Uygulama başarıyla çalıştığında,  resim yükleyip siyah beyaz hale getirebilirsiniz.
