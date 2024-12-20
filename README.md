@@ -34,12 +34,8 @@ Bu projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımlar�
     pip install opencv-python numpy gradio
     ```
 
-2. Proje dosyasını indirin veya klonlayın:
+2. Proje dosyasını indirin veya klonlayın
 
-    ```bash
-    git clone https://github.com/kullanici-adiniz/siyah-beyaz-filtre-uygulamasi.git
-    cd siyah-beyaz-filtre-uygulamasi
-    ```
 
 3. `nostalji.py` dosyasını çalıştırın:
 
