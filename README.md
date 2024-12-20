@@ -51,10 +51,6 @@ Bu projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımlar�
 2. **Siyah Beyaz Görüntü**: Yüklediğiniz resim otomatik olarak siyah beyaz formata çevrilir ve ekranınızda görüntülenir.
 
 
-## Kaynaklar
-
-- **OpenCV**: [https://opencv.org/](https://opencv.org/)
-
 
 
 
@@ -66,5 +62,4 @@ Bu projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımlar�
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/27559679/elfgk)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-9C30FF?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/elfgk)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/elfgkk)
-- **Gradio**: [https://gradio.app/](https://gradio.app/)
-- **NumPy**: [https://numpy.org/](https://numpy.org/)
+
